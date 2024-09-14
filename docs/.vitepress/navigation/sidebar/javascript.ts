@@ -2,8 +2,9 @@ export default [
   {
     text: "浏览器、V8引擎",
     items: [
-      { text: "浏览器内核分类、组成", link: "/javascript/empty" },
-      { text: "浏览器渲染过程", link: "/javascript/1.浏览器、V8引擎/1.1.浏览器渲染过程" },
+      { text: "基本概念", link: "/javascript/1.浏览器、V8引擎/0.基本概念" },
+      { text: "浏览器组成", link: "/javascript/1.浏览器、V8引擎/1.浏览器组成" },
+      { text: "浏览器渲染过程", link: "/javascript/1.浏览器、V8引擎/2.浏览器渲染过程" },
       { text: "页面重排、重绘", link: "/javascript/" },
       { text: "V8引擎工作过程", link: "/javascript/" },
       { text: "V8引擎内存管理", link: "/javascript/" },
