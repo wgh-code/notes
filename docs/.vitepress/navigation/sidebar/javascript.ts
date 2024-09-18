@@ -4,7 +4,10 @@ export default [
     items: [
       { text: "基本概念", link: "/javascript/1.浏览器、V8引擎/0.基本概念" },
       { text: "浏览器组成", link: "/javascript/1.浏览器、V8引擎/1.浏览器组成" },
-      { text: "浏览器渲染过程", link: "/javascript/1.浏览器、V8引擎/2.浏览器渲染过程" },
+      {
+        text: "浏览器渲染过程",
+        link: "/javascript/1.浏览器、V8引擎/2.浏览器渲染过程",
+      },
       { text: "页面重排、重绘", link: "/javascript/" },
       { text: "V8引擎工作过程", link: "/javascript/" },
       { text: "V8引擎内存管理", link: "/javascript/" },
@@ -13,7 +16,10 @@ export default [
   {
     text: "核心概念",
     items: [
-      { text: "作用域、执行上下文、作用域链", link: "/javascript/2.核心概念/1.作用域、执行上下文、作用域链" },
+      {
+        text: "作用域、执行上下文、作用域链",
+        link: "/javascript/2.核心概念/1.作用域、执行上下文、作用域链",
+      },
       { text: "闭包", link: "/javascript/2.核心概念/2.闭包" },
       { text: "this 指向", link: "/javascript/2.核心概念/3.this指向" },
       { text: "原型、原型链", link: "/javascript/2.核心概念/4.原型、原型链" },
@@ -31,7 +37,10 @@ export default [
   {
     text: "原生实现",
     items: [
-      { text: "手写call、apply、bind", link: "/javascript/" },
+      {
+        text: "手写call、apply、bind",
+        link: "/javascript/4.原生实现/1.手写call、apply、bind",
+      },
     ],
   },
   {
