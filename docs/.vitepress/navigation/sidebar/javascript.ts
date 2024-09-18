@@ -13,10 +13,11 @@ export default [
   {
     text: "核心概念",
     items: [
-      { text: "函数", link: "/javascript/" },
-      { text: "作用域、执行上下文、作用域链", link: "/javascript/" },
-      { text: "闭包", link: "/javascript/" },
-      { text: "彻底搞懂 this", link: "/javascript/" },
+      { text: "作用域、执行上下文、作用域链", link: "/javascript/2.核心概念/1.作用域、执行上下文、作用域链" },
+      { text: "闭包", link: "/javascript/2.核心概念/2.闭包" },
+      { text: "this 指向", link: "/javascript/2.核心概念/3.this指向" },
+      { text: "原型、原型链", link: "/javascript/2.核心概念/4.原型、原型链" },
+      { text: "继承", link: "/javascript/2.核心概念/5.继承" },
     ],
   },
   {
