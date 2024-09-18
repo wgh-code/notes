@@ -41,6 +41,10 @@ export default [
         text: "手写call、apply、bind",
         link: "/javascript/4.原生实现/1.手写call、apply、bind",
       },
+      {
+        text: "手写new操作符功能实现",
+        link: "/javascript/4.原生实现/2.手写new操作符功能实现",
+      },
     ],
   },
   {
