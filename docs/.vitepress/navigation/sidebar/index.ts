@@ -4,7 +4,8 @@ import typescriptSidebar from "./typescript";
 export default {
   "/": [
     {
-      items: [{ text: "导读", link: "/" }],
+      text: '导读',
+      items: [{ text: "javascript大纲", link: "/" }],
     },
   ],
   "/javascript/": javascriptSidebar,
