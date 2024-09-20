@@ -33,6 +33,7 @@ export default [
       { text: "JavaScript函数柯里化", link: "/javascript/" },
       { text: "JavaScript元编程：Proxy与Reflect", link: "/javascript/" },
       { text: "Proxy为什么需要搭配Reflect", link: "/javascript/3.其他知识/Proxy为什么需要搭配Reflect" },
+      {text: "正则", link: "/javascript/3.其他知识/正则" }
     ],
   },
   {
